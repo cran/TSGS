@@ -1,0 +1,5 @@
+0d5c617e6c3c52dd2b56571a61403cf7 *DESCRIPTION
+b41f5cb569f3f138bc338b81e6df7bd9 *NAMESPACE
+c2aeb44595e7ca0274c62c5ca806e9df *R/featureSelect.R
+bd4e82826ba90188d491d36e3c814599 *inst/extdata/exampleData.csv
+abeeb3124e3c5a26c2959dfcb71987d6 *man/featureSelect.Rd
